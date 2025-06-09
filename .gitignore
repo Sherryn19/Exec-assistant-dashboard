@@ -194,6 +194,5 @@ cython_debug/
 .cursorindexingignore
 # Ignore node modules
 node_modules/
-
 # Ignore environment variables
 .env
