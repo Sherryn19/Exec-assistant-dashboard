@@ -1,5 +1,5 @@
 # Virtual Assistant Dashboard
-A web-based virtual assistant built using Node.js and vanilla HTML/CSS/JS. It supports text commands and weather updates via the OpenWeather API. More features like task management and voice input are coming soon!
+A web-based virtual assistant built using Node.js and vanilla HTML/CSS/JS. It supports text commands and weather updates via the OpenWeather API.
 
 ## 🌟 Features
 - 🌦️ Real-time weather info
